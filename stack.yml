@@ -6,9 +6,9 @@ functions:
     fprocess: ""
     environment:
       base_href: /web/
-      gateway_url: https://telarpress.o6s.io
+      gateway_url: https://huyqluong.o6s.io
       query_pretty_url: "true"
-      websocket_url: https://telarpress-websocket.herokuapp.com
+      websocket_url: https://huyluong-websocket.herokuapp.com
       write_debug: "true"
     secrets: []
     skip_build: false
